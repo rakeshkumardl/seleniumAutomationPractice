@@ -18,6 +18,7 @@ public class LearningStringManupulation {
 		System.out.println(id1);
 		System.out.println(tid);
 		System.out.println(id+" " +id2);
+		System.out.println(msg.substring(23,30));
 
 	}
 
